@@ -1,5 +1,5 @@
 # JavaScript Template Strings Practice
-# In class practice with Template Strings in JavaScript
+
 ### Exercise 1:
 
 Create a variable called ```myName``` and assign it the value of your name as a String. Create a template string to format the output and log it to the console as 
