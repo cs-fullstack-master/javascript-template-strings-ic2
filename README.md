@@ -11,14 +11,15 @@ For example, if the variable is equal to ```Kevin``` the output would be ```Hi, 
 ### Exercise 2:
 
 Write a template String that will print out the sum of the 2 variables (do NOT use any other variables).
-
-var one = 1;
-var two = 2;
+```
+let one = 1;
+let two = 2;
+```
 
 Log the sum to the console using your template string to produce ```Your total is: 3```
 
 
-### Exercise 3:
+### Challenge:
 
 Given the Object Literal variable below 
 ```var person = { first_name: 'Chuck', last_name: 'Jones' };```
